@@ -8,3 +8,5 @@ Confesso que quando iniciei o curso, esperada o foco em outro conteúdo, como cr
 ### Parte boa
 
 A parte de instalação, criação de máquinas virtuais, entre alguns outros serviços de Cloud, me identifiquei melhor, mas estou seguindo a ordem do curso.
+
+Agora sim, estes módulos criando maquinas virtuais, tipo de serviço na nuvem e configurando uma instância de banco de dados foram muito boas e de mais fácil aprendizado, estou amando.
